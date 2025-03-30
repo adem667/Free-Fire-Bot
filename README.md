@@ -13,4 +13,10 @@ How to install in Termux :
 
 & pip install -r requirements.txt
 
-& python Free Fire.py
+& python FreeFire.py
+
+HOW TO UNISTALL  FreeFireBot
+
+&rm -rf Free-Fire-Bot
+
+
