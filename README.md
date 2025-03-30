@@ -13,3 +13,4 @@ cd Free-Fire-Bot
 
 pip install -r requirements.txt
 
+python Free Fire.py
